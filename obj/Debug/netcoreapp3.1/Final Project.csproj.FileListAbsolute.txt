@@ -1,0 +1,38 @@
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.Views.dll
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\Final Project.Views.pdb
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.csprojAssemblyReference.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.RazorAssemblyInfo.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.RazorAssemblyInfo.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.TagHelpers.input.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.TagHelpers.output.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.RazorCoreGenerate.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.RazorTargetAssemblyInfo.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.RazorTargetAssemblyInfo.cs
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.Views.pdb
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Final Project.StaticWebAssets.Manifest.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Final Project.StaticWebAssets.xml
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+D:\Users\Peso\Documents\comit\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CopyComplete
+D:\Users\Peso\Documents\comit\Final Project\bin\Debug\netcoreapp3.1\src\Build\Number Wizard web.json
